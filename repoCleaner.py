@@ -1,4 +1,4 @@
-python
+#python
 from github import Github
 from datetime import datetime, timedelta
 import os
