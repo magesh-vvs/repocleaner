@@ -1,4 +1,4 @@
-https://github.com/magesh-vvs/python.git
-https://github.com/magesh-vvs/jenkins.git
-https://github.com/magesh-vvs/aws.git
-https://github.com/magesh-vvs/shellscript.git
+https://github.com/magesh-vvs/python
+https://github.com/magesh-vvs/jenkins
+https://github.com/magesh-vvs/aws
+https://github.com/magesh-vvs/shellscript
